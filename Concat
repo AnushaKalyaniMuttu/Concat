@@ -1,0 +1,12 @@
+package com.employee;
+
+public class Main {
+
+	public static void main(String args[]) {
+	String name="Anusha";
+	name.concat(" Kalyani");
+	System.out.println(name);//prints Anusha since strings are immutable 
+	reassign the value to string name then it will concat value to name
+	
+	}
+	}
